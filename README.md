@@ -9,7 +9,7 @@
 ---
 ![](./image/task3.png)
 
-#How to run
+# How to run
 
 1. Prepare the dataset and pre-trained embeddings (FastText is used here) in `./data`: 
 
